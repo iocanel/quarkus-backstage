@@ -31,7 +31,7 @@
 
     <!-- versions -->
     <quarkus.version>3.4.3</quarkus.version>
-    <sundrio.version>0.101.0</sundrio.version>
+    <sundrio.version>0.103.0</sundrio.version>
     <lombok.version>1.18.26</lombok.version>
   </properties>
   <dependencyManagement>
