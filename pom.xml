@@ -30,7 +30,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     <!-- versions -->
-    <quarkus.version>3.4.3</quarkus.version>
+    <quarkus.version>3.6.6</quarkus.version>
     <sundrio.version>0.101.0</sundrio.version>
     <lombok.version>1.18.26</lombok.version>
   </properties>
